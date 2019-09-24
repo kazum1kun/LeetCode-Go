@@ -6,7 +6,7 @@ import (
 )
 
 /*
-	VERY INEFFICIENT IMPL!!! Alternative Impl coming
+	VERY INEFFICIENT AND BAD IMPL!!! Maybe I shouldn't code while asleep...
 	Problem #2 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 	24ms/5.7MB (Beats 9.06%/7.32%)
 */
