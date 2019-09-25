@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mainATN() {
 	l1 := &LeetCode.ListNode{
 		Val: 4,
 		Next: &LeetCode.ListNode{
