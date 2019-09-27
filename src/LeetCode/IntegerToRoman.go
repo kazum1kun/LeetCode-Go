@@ -4,7 +4,7 @@ import "strings"
 
 /*
 	Problem #12 Integer to Roman https://leetcode.com/problems/integer-to-roman/
-	16ms/3.3MB (18.89%/100.00%)
+	16ms/3.3MB (Beats 18.89%/100.00%)
 */
 
 func IntToRoman(num int) string {

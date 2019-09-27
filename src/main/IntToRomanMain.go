@@ -2,7 +2,7 @@ package main
 
 import "LeetCode"
 
-func main() {
+func mainIntToRoman() {
 	println(LeetCode.IntToRoman(3))
 	println(LeetCode.IntToRoman(4))
 	println(LeetCode.IntToRoman(58))

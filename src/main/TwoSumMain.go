@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func twoSumMain() {
+func mainTwoSum() {
 	//fmt.Println(LeetCode.TwoSum([]int{3,2,4}, 6))
 	l1 := &LeetCode.ListNode{
 		Val: 5,
